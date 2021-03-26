@@ -1,0 +1,38 @@
+[
+{
+    "Id": 1,
+    "Title": "Dr NO",
+    "Year": 1962,
+    "Director":"Terence Young" 
+},
+{
+    "Id": 2,
+    "Title": "Desde Rusia con amor",
+    "Year": 1963,
+    "Director":"Terence Young" 
+},
+{
+    "Id": 3,
+    "Title": "Goldfinger",
+    "Year": 1964,
+    "Director":"Guy Hamilton" 
+},
+{
+    "Id": 4,
+    "Title": "Operación Trueno",
+    "Year": 1965,
+    "Director":"Terence Young" 
+},
+{
+    "Id": 5,
+    "Title": "Solo se vive dos veces",
+    "Year": 1967,
+    "Director":"Lewis Gilbert" 
+},
+{
+    "Id": 6,
+    "Title": "Diamantes Para la eternidad",
+    "Year": 1971,
+    "Director":"Guy Hamilton" 
+}
+]
